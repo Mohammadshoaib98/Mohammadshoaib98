@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://mohammadshoaib.io)
 <h1 align="center">Hi 👋, I'm Mohammad Shoaib</h1>
-<h3 align="center">A passionate flutter and native developer from Syria</h3>
+<h3 align="center">A passionate flutter and native developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadshoaib98&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadshoaib98" /> </p>
 
@@ -8,9 +8,8 @@
 
 - 💬 Ask me about **Android , Flutter**
 
-- 📫 How to reach me **12mohammaddeeb@gmail.com**
-
-- ⚡ Fun fact **I am funny**
+- 📫 How to reach me **eng.mohammadshoaib98@gmail.com**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
